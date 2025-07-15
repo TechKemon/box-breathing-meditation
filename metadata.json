@@ -1,0 +1,5 @@
+{
+  "name": "ZenBox Breathing",
+  "description": "A simple and beautiful application to guide you through calming box breathing exercises. Inhale, hold, exhale, and hold each for a count of four to find your center and reduce stress.",
+  "requestFramePermissions": []
+}
